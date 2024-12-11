@@ -9,4 +9,3 @@
 - chart.js
 - react-chartjs-2
 - jwt-decode
-- dotenv
